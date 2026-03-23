@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey there 👋
+
+I'm a B.Tech IT Engineering student passionate about learning and building.
+
+🎓 Studying at Indira College of Engineering and Management
+💡 Currently exploring frontend, UI/UX, and programming fundamentals
+🚀 Learning step by step and growing every day
+
+## 🛠️ Tools & Technologies
+
+* Programming: Python, C, Java (basics)
+* Web: HTML, CSS, JavaScript (learning)
+* Design: Figma (recommended for UI/UX)
+* Tools: Git, GitHub, VS Code
+
+## 📫 Reach Me
+
+* Email: vaishnavi06gho@gmail.com
+* LinkedIn: https://www.linkedin.com/feed/?trk=hb_signin
+
+---
+
+⭐ Always learning, building, and improving
